@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import './MovieRow.css'
 import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 import NavigateBeforeIcon from '@mui/icons-material/NavigateBefore';
-import { width } from "@mui/system";
+
 
 export default ({title, items}) =>{
     const [scrollX, setScrollX] = useState(0)
