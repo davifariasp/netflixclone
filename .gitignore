@@ -6,7 +6,7 @@
 .pnp.js
 
 #apikey
-./src/Tmbd.js
+./src/Tmdb.js
 
 # testing
 /coverage
