@@ -6,7 +6,7 @@ import FeaturedMovie from './components/FeaturedMovie'
 import Header from './components/Header'
 
 
-export default () =>{
+export default () => {
   const [movieList, setMovieList] = useState([])
   const [featuredData, setFeaturedData] = useState(null)
   const [blackHeader, setBlackHeader] = useState(false)
